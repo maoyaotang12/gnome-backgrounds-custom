@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Map</name>
-    <filename>@BACKGROUNDDIR@/adwaita-l.svg</filename>
-    <filename-dark>@BACKGROUNDDIR@/adwaita-d.svg</filename-dark>
+    <name>Default Background</name>
+    <filename>@BACKGROUNDDIR@/adwaita-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/adwaita-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#241f31</pcolor>
+    <pcolor>#3071AE</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
